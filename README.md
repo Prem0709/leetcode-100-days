@@ -1,4 +1,4 @@
-# 📊 LeetCode Data Science Solutions
+# 📊 LeetCode Data Science / DSA (Python) Solutions
 
 This repository contains **LeetCode SQL & Python (Pandas)** solutions focused on **Data Science & Analytics roles**.
 
